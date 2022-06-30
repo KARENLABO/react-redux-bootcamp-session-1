@@ -1,2 +1,2 @@
 // YOU OWN API KEY
-export const API_KEY = 'YOUR_OWN_API_KEY'
+export const API_KEY = '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'
